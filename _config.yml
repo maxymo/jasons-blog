@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Bits Collector
+url: "https://bitscollector.com/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Quick tutorials about software development, IT and other misc stuff.
 author:
   name:
   email:
@@ -43,29 +43,24 @@ exclude:
 collections:
   sets:
 
-
 jekyll-archives:
-  enabled: ['categories']
+  enabled: ["categories"]
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       type: "posts"
     values:
       layout: "post"
       comments: true
-  -
-    scope:
+  - scope:
       type: "sets"
     values:
       _hide_content: true
-  -
-    scope:
+  - scope:
       path: "index.html"
     values:
       body_class: "show_hero_search"
