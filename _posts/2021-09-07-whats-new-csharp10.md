@@ -9,3 +9,7 @@ thumbnail: /images/uploads/screenshot-2021-09-04-at-07.32.41.png
 rating: 5
 ---
 C# 10 is coming with a ton of new features...
+
+Second line
+
+![](/images/uploads/touch-icon.png "Bits Collector")
