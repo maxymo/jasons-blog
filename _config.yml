@@ -5,12 +5,12 @@ title: Bits Collector
 url: "https://bitscollector.com/"
 baseurl:
 google_analytics_key:
-disqus_shortname:
+disqus_shortname: bitscollector-com
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Quick tutorials about software development, IT and other misc stuff.
+description: Personal blog about software development, IT and other misc stuff.
 author:
   name:
   email:

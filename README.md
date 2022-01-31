@@ -1,16 +1,10 @@
-# Base
+# Introduction
 
-Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
-
-![Base template screenshot](images/_screenshot.png)
-
-Base was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Jason's personal blog built in [Jekyll](https://jekyllrb.com/) deployed in [GitHub Pages](https://pages.github.com/) and managed in in [NetlifyCMS](https://www.netlifycms.org/). Jekyll template taken from [Cloudbent](https://github.com/CloudCannon/base-jekyll-template)
 
 ## Features
 
-* Tutorials organised by category
+* Posts category
 * Two types of tutorials - text and video
 * Ability to have a "tutorial series"
 * FAQ section
