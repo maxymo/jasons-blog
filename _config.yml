@@ -3,8 +3,8 @@
 
 title: Bits Collector
 url: "https://bitscollector.com/"
-baseurl:
-google_analytics_key:
+baseurl: "https://bitscollector.com/"
+google_analytics_key: G-1KF61NCMVL
 disqus_shortname: bitscollector-com
 newsletter_action:
 

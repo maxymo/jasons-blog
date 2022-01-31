@@ -39,9 +39,9 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Base is already optimised for adding, updating and removing tutorials, navigation, footer and FAQ information in CloudCannon.
+Base is already optimised for adding, updating and removing posts, navigation, footer and FAQ information in CloudCannon.
 
-The sticky sidebar in tutorials in populated by pulling out `<h2>` elements from the content.
+The sticky sidebar in posts in populated by pulling out `<h2>` elements from the content.
 
 ### Posts
 
